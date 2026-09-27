@@ -1,0 +1,19 @@
+//MICHAEL PAGARIGAN
+//BSIT NETSEC 1-1
+package sequentialnumbers;
+
+public class SequentialNumbers {
+
+    
+    public static void main(String[] args) {
+        int sequence1 = 123;
+        int sequence2 = 456;
+        int sequence3 = 789;
+        System.out.println(sequence1);
+        System.out.println(sequence2);
+        System.out.println(sequence3);
+        
+    }
+    
+}
+
